@@ -9,3 +9,10 @@
 - 🌱 I’m exploring the world of analytics & analysis and building my portfolio with diverse projects
 - 📝 I have a strong interest in the field of analytics 
 - 📫 Email me at [bhndlkr@gmail.com](mailto:bhndlkr@gmail.com)
+
+<br>
+
+### 📈 Data Science / Analytics Projects 
+
+<a target="_blank" href="https://public.tableau.com/app/profile/bhndlkr">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;</a>
+<a target="_blank" href="https://github.com/bhndlkr/Projects"> ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)&nbsp;</a>
