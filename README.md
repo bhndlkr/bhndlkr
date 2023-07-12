@@ -5,7 +5,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m self learner; currently learning python
+- 👨🏽‍💻 I’m a self learner
 - 🌱 I’m exploring the world of analytics & analysis and building my portfolio with diverse projects
 - 📝 I have a strong interest in the field of analytics 
 - 📫 Email me at [bhndlkr@gmail.com](mailto:bhndlkr@gmail.com)
